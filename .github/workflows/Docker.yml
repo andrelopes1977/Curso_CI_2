@@ -18,5 +18,4 @@ jobs:
       with:
         username: andrelopes1977
         password: ${{ secrets.PASSWORD_DOCKER_HUB }}
-        ecr: auto
-        logout: true
+
